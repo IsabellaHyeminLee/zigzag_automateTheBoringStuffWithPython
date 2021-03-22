@@ -17,3 +17,6 @@ try:
             time.sleep(0.25)
 except KeyboardInterrupt:
     sys.exit()
+
+
+#Used reversed method and format operator to make zigzag motion.
